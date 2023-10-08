@@ -193,6 +193,19 @@ export const Bio = {
       
       
     },
+       {
+      id: 1,
+      title: "Agro Pro",
+      date: "Aug 2023 ",
+      description:
+        "Developed a simple mobile app with React native ",
+      image:
+        "https://media.licdn.com/dms/image/D5622AQF4Eq3y9ij7Eg/feedshare-shrink_800/0/1696748144229?e=1699488000&v=beta&t=7IRxa7QHFiEIncZT4k1YJjFZXg_5Cuz8d7pSYBKdeeM",
+      tags: ["Javascript","HTML","CSS","React Native"],
+      category: "web app",
+      github: "https://github.com/LakshithaMadhu/AgroPro",
+  
+    },
   
     
     
